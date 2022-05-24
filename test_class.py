@@ -1,6 +1,6 @@
 class TestClass:
-	name = "my name"
+	name = "my name is Ola"
     
 	def test_one(self):
-    	assert 'h' in self.name
+    		assert 'O' in self.name
 
